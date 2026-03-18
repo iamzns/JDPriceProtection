@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36705.20
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JDPriceProtection", "JDPriceProtection\JDPriceProtection.csproj", "{B9C47719-2016-4567-ABB6-7C928DC59AA5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B9C47719-2016-4567-ABB6-7C928DC59AA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9C47719-2016-4567-ABB6-7C928DC59AA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9C47719-2016-4567-ABB6-7C928DC59AA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9C47719-2016-4567-ABB6-7C928DC59AA5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8E711E44-9A20-4B60-8F45-ECAE0F4DDE2C}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,15 @@
+﻿################################################################################
+# 此 .gitignore 文件已由 Microsoft(R) Visual Studio 自动创建。
+################################################################################
+
+/.vs/ConsoleApp2
+/ConsoleApp2/bin/Debug
+/ConsoleApp2/obj/Debug
+/packages
+/ConsoleApp2/bin/Release
+/ConsoleApp2/obj/Release
+/.vs/JDPriceProtection
+/JDPriceProtection/.vs
+/JDPriceProtection/bin/Debug
+/JDPriceProtection/bin/Release
+/JDPriceProtection/obj
